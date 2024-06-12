@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arxpetro
 - 👀 I’m interested in game development (C++, C#, UnrealEngine5)
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning Front end dev
 - 💞️ I’m looking to collaborate on intersting ideas!
 - 📫 How to reach me https://t.me/guacamole2004
 
